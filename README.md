@@ -110,7 +110,7 @@ HotelRepresaDelPrado/
 
 1. **Clona el repositorio**
    ```bash
-   git clone https://github.com/TU-USUARIO/hotel-represa-del-prado.git
+   git clone https://github.com/angelarenalesdev/hotel-represa-del-prado.git
    cd hotel-represa-del-prado/backend
    ```
 
